@@ -10,7 +10,7 @@ sort logic into discrete pieces.
 Usage
 -----------
 
-'''
+```
 var complexSort = require("complex-sort"),
     arrayToSort = [
         { p1: 1, p2: "b", id: "Peter"},
@@ -26,6 +26,6 @@ arrayToSort.sort(complexSort({
 });
 
 //arrayToSort should has Bjorn first (at 0) and Peter second
-'''
+```
 
 Question and comments are appreciated!
