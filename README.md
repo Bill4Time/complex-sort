@@ -25,7 +25,7 @@ arrayToSort.sort(complexSort({
     invert: false//Just including this to document that you can reverse your sort
 });
 
-//arrayToSort should has Bjorn first (at 0) and Peter second
+//arrayToSort now has Bjorn first (at 0) and Peter second
 ```
 
 Question and comments are appreciated!
