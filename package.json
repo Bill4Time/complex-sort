@@ -1,0 +1,27 @@
+{
+  "name": "complex-sort",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bill4Time/complex-sort.git"
+  },
+  "keywords": [
+    "complex",
+    "sort",
+    "compound",
+    "JavaScript",
+    "array",
+    "sorting"
+  ],
+  "author": "Kyle Housley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bill4Time/complex-sort/issues"
+  },
+  "homepage": "https://github.com/Bill4Time/complex-sort"
+}
